@@ -2,7 +2,7 @@
     "auth": {
         "registry.hub.docker.com": {
             "username": "xxxxxxxx",
-            "password": "xxxxxxxx",
+            "password": "xxxxxxx2",
             "insecure": true
         },
         "registry.cn-hangzhou.aliyuncs.com": {
